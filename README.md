@@ -10,7 +10,7 @@ Cada ejercicio incluye su **descripción, beneficios, instrucciones y consejos**
 - [ Ejercicio Cardio](ejercicios/cardio.md): Mejora tu resistencia y salud cardiovascular.
 - [ Ejercicio de Fuerza](ejercicios/fuerza.md): Aumenta masa muscular y fuerza.
 - [ Ejercicio de Flexibilidad](ejercicios/flexibilidad.md): Mejora movilidad y reduce riesgo de lesiones.
-- [ Entrenamiento Funcional](ejercicios/entrenamientoFuncional.md): Aumenta fuerza en movimientos cotidianos.
+- [ Entrenamiento Funcional](ejercicios/entrenaminetoFuncional.md): Aumenta fuerza en movimientos cotidianos.
 - [ Ejercicio de Yoga](ejercicios/yoga.md): Favorece la relajación y la flexibilidad.
 - [ Ejercicio de Pilates](ejercicios/pilates.md): Fortalece el core y mejora la postura.
 - [ Ejercicio de Ciclismo](ejercicios/ciclismo.md): Gran ejercicio cardiovascular de bajo impacto.
